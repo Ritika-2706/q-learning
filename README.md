@@ -5,7 +5,7 @@
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT
-Explain the problem statement.
+The study compares Q-Learning and Monte Carlo algorithms for training an agent in Frozen Lake, evaluating success rates, convergence speed, and optimality of policies.
 
 ## Q LEARNING ALGORITHM
 ### Step 1:
@@ -73,5 +73,5 @@ def q_learning(env,
 
 
 ## RESULT:
-Thus, the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method is successfully completed.
+Thus, Q-Learning outperformed Monte Carlo in finding the optimal policy and state values for the RL problem.
 
